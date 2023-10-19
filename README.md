@@ -31,3 +31,24 @@ The ToDo-Webapp is a web-based application developed using Java, JSP (JavaServer
 
 **Tomcat or another servlet container:** To deploy and run the application on a web server.
 
+## Screen Shots
+
+**Login Form**
+
+![TD-home](https://github.com/anujj009/ToDo-Webapp-Java-jsp-Servlet-Mysql/assets/140200498/14d0c1fe-0f4a-42fe-87e1-57c6861caef5)
+
+
+**Signup Form**
+
+![TD-register](https://github.com/anujj009/ToDo-Webapp-Java-jsp-Servlet-Mysql/assets/140200498/8c86b6e9-712a-40d2-98b4-b66d40acdd70)
+
+
+**Add Task Form**
+
+![TD-addTD](https://github.com/anujj009/ToDo-Webapp-Java-jsp-Servlet-Mysql/assets/140200498/4ba63608-1790-4a20-86cb-b004993a3cd0)
+
+
+**View Task**
+
+![TD-list](https://github.com/anujj009/ToDo-Webapp-Java-jsp-Servlet-Mysql/assets/140200498/16815490-33ff-4112-bb95-294789fa5dbc)
+
